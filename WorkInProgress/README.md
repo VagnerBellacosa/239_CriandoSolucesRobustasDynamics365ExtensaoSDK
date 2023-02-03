@@ -34,7 +34,11 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Preparando o Ambiente](https://web.dio.me/lab/criando-solucoes-robustas-no-dynamics-365-com-a-extensao-sdk/learning/44dcb3a4-9e9b-4611-b5a5-16be2db50045)[Criando Plugins](https://web.dio.me/lab/criando-solucoes-robustas-no-dynamics-365-com-a-extensao-sdk/learning/be1af186-68f1-410b-835b-761ed5f36013)[Trabalhando com Actions](https://web.dio.me/lab/criando-solucoes-robustas-no-dynamics-365-com-a-extensao-sdk/learning/cc4d02d1-a923-466a-9f42-4363f19d032d)[Criando o Workflow Assembly](https://web.dio.me/lab/criando-solucoes-robustas-no-dynamics-365-com-a-extensao-sdk/learning/65330710-4c84-4e70-8215-6662a939c2f9)[Entendendo o desafio](https://web.dio.me/lab/criando-solucoes-robustas-no-dynamics-365-com-a-extensao-sdk/learning/58249619-6d62-4d88-8736-273b9a4c31d5)
+- [Preparando o Ambiente](https://web.dio.me/lab/criando-solucoes-robustas-no-dynamics-365-com-a-extensao-sdk/learning/44dcb3a4-9e9b-4611-b5a5-16be2db50045)
+- [Criando Plugins](https://web.dio.me/lab/criando-solucoes-robustas-no-dynamics-365-com-a-extensao-sdk/learning/be1af186-68f1-410b-835b-761ed5f36013)
+- [Trabalhando com Actions](https://web.dio.me/lab/criando-solucoes-robustas-no-dynamics-365-com-a-extensao-sdk/learning/cc4d02d1-a923-466a-9f42-4363f19d032d)
+- [Criando o Workflow Assembly](https://web.dio.me/lab/criando-solucoes-robustas-no-dynamics-365-com-a-extensao-sdk/learning/65330710-4c84-4e70-8215-6662a939c2f9)
+- [Entendendo o desafio](https://web.dio.me/lab/criando-solucoes-robustas-no-dynamics-365-com-a-extensao-sdk/learning/58249619-6d62-4d88-8736-273b9a4c31d5)
 
 
 
